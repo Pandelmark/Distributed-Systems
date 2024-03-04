@@ -1,2 +1,2 @@
 # Distributed-Systems
-Applications on Distributed computationusing RPC and java RMI
+Applications on Distributed computation using RPC and java RMI
